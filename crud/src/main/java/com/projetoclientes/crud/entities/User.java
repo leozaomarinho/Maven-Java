@@ -1,6 +1,7 @@
 package com.projetoclientes.crud.entities;
 
 import java.io.Serializable;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
